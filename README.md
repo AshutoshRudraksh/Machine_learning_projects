@@ -1,1 +1,1 @@
-#### Hands-on ML
+#### Hands-on ML Projects
